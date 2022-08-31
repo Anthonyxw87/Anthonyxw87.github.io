@@ -193,10 +193,6 @@ h3 {font-size: var(--fs-h1)}
         margin-bottom: 4em;
 }
 
-.service { 
-        background-color: red;
-        width: 100%;
-}
 
 .serviceHead{
         font-size: 1.5rem;
